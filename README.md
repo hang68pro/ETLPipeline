@@ -2,10 +2,11 @@
 Powering data for the Department of Engergy
 
 ⚡ Automated Energy Data Pipeline
+
 This project demonstrates how to build a data pipeline to automate the extraction, transformation, and loading (ETL) of energy data using Python and pandas.
 
 🏢 Project Background
-You've recently joined an energy company as a Data Engineer. Previously, analysts manually processed energy sales and capability data each quarter—a time-consuming and tedious task. Your role is to automate this process so that data is pulled and prepared monthly, enabling faster insights and freeing up time for stakeholders.
+Previously, analysts manually processed energy sales and capability data each quarter—a time-consuming and tedious task. My role is to automate this process so that data is pulled and prepared monthly, enabling faster insights and freeing up time for stakeholders.
 
 📂 Data Sources
 The pipeline works with two raw data files:
